@@ -146,5 +146,6 @@ This work highlights the **strength of HW/SW co-design** in digital image proces
 
 ## 📝 License
 
-Open for educational and personal use under the ![MIT License](https://github.com/VLSI-Shubh/Morphological-Image-Filtering-on-PYNQ-FPGA/blob/148607d639a483a29600fda4e68388c838aca323/License.txt).  
+Open for educational and personal use under the [MIT License](https://github.com/VLSI-Shubh/Morphological-Image-Filtering-on-PYNQ-FPGA/blob/148607d639a483a29600fda4e68388c838aca323/License.txt).  
+
 
